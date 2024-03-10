@@ -5,7 +5,6 @@ type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["aws", "security", "ctf"]
 published: true
 ---
-![](https://doorkeeper.jp/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOE81QlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a0a14fef50e18100882258a705ba2a7af23e95b6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFMb0F6QT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--8ce6569ce3b1f779d3cfcdbb6038d926ad4475c7/AWS_CTF_Wide.jpg)
 
 # Security JAWS初参戦！
 Security JAWS初参加で、ついでにCTFも初体験してきました。
