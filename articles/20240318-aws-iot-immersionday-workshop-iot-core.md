@@ -3,7 +3,7 @@ title: "AWS IoT Immersion Day ワークショップでIoT Core学び直し"
 emoji: "🐕"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["aws", "iot"]
-published: false
+published: true
 ---
 
 # はじめに
